@@ -5,7 +5,9 @@ const arr = [
   ]
   
   // Type your code below this line!
-  
+  const arr1 = arr.shift(10, 20);
+  console.log(arr1);
+  //const arrFlat = arr.flat();
   
   
   // Type your code above this line!
